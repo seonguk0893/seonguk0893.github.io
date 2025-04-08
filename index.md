@@ -142,7 +142,7 @@ layout: about
       <img src="./assets/img/project1.png" width="500">
     </a>
     <p><strong>📅 </strong> 2024.10 ~ 2024.12</p>
-    <p><strong>🛠 </strong> Python, Flask, MySQL, Node.js</p>
+    <p><strong>🛠 </strong> HTML/CSS, Javascript, Python, Flask, MySQL</p>
     <p><strong>💡 </strong> 자율주행 운반 로봇 화면 개발</p>
   </div>
 
@@ -152,7 +152,7 @@ layout: about
       <img src="./assets/img/project2.png" width="500">
     </a>
     <p><strong>📅 </strong> 2024.08 ~ 2024.10</p>
-    <p><strong>🛠 </strong> VUE.JS, HTML, CSS, MySQL, Node.js</p>
+    <p><strong>🛠 </strong> HTML/CSS, Vue.js, Node.js, MySQL</p>
     <p><strong>💡 </strong> Vue.js 기반 무인매장 내 쇼핑 도우미 웹 화면 개발</p>
   </div>
 
@@ -162,7 +162,7 @@ layout: about
       <img src="./assets/img/project3.png" width="500">
     </a>
     <p><strong>📅 </strong> 2024.08 ~ 2024.10</p>
-    <p><strong>🛠 </strong> PYTHON, HTML, CSS, JS, FLASK, MYSQL, DJANGO</p>
+    <p><strong>🛠 </strong> HTML/CSS, Javascript, Python, Django, MySQL</p>
     <p><strong>💡 </strong> 회원가입 및 로그인 절차를 통한 무인매장 출입 QR 코드 발급 서비스 화면 개발</p>
   </div>
 
@@ -172,7 +172,7 @@ layout: about
       <img src="./assets/img/project4.png" width="500">
     </a>
     <p><strong>📅 </strong> 2024.04 ~ 2024.08</p>
-    <p><strong>🛠 </strong> PYTHON, HTML, CSS, JS, FLASK, MYSQL, NODE.JS, DJANGO</p>
+    <p><strong>🛠 </strong> HTML/CSS, Javascript, Python, Flask, MySQL</p>
     <p><strong>💡 </strong> 매장 이용객 및 방문 고객 안내 및 음성인식 기반 로봇 화면 개발</p>
   </div>
 
@@ -182,7 +182,7 @@ layout: about
       <img src="./assets/img/project5.png" width="500">
     </a>
     <p><strong>📅 </strong> 2024.03 ~ 2024.04</p>
-    <p><strong>🛠 </strong> PYTHON, HTML, CSS, JS, FLASK, NODE.JS</p>
+    <p><strong>🛠 </strong> HTML/CSS, Javascript, Python, Flask</p>
     <p><strong>💡 </strong> Flask 기반 회사 홈페이지 개발</p>
   </div>
 
@@ -192,7 +192,7 @@ layout: about
       <img src="./assets/img/project6.png" width="500">
     </a>
     <p><strong>📅 </strong> 2023.12 ~ 2024.03</p>
-    <p><strong>🛠 </strong> PYTHON, HTML, CSS, JS, FLASK, MYSQL, NODE.JS</p>
+    <p><strong>🛠 </strong> HTML/CSS, Javascript, Python, Flask, MySQL</p>
     <p><strong>💡 </strong> 광주에 위치한 금남지하도상가의 센싱정보와 상가정보, 출입구정보 제공 서비스 화면 개발</p>
   </div>
 </section>
