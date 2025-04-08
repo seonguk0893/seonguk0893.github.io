@@ -111,10 +111,11 @@ layout: about
       <strong>써니팩토리 (2023/12 ~ )</strong> - 풀스택 개발자
       <ul>
       <br/>
-        <li>웹 애플리케이션 개발 및 유지보수</li>
-        <li>Flask 및 Vue.js 기반 프론트엔드 & 백엔드 개발</li>
-        <li>데이터베이스 설계 및 최적화 (MySQL)</li>
-        <li>AWS 환경에서 서버 관리 및 운영</li>
+        <li>Flask 기반 RESTful API 서버 설계 및 개발</li>
+        <li>Vue.js를 활용한 웹 프론트엔드 구현 및 유지보수</li>
+        <li>MySQL 기반 데이터베이스 설계, 인덱스 최적화 및 쿼리 튜닝</li>
+        <li>AWS EC2, S3를 활용한 배포 및 서버 인프라 운영</li>
+        <li>Google STT 및 TTS API를 활용한 음성인식 기반 서비스 개발</li>
       </ul>
     </li>
     <li>
